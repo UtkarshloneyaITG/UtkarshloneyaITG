@@ -11,15 +11,9 @@
   <a href="https://github.com/UtkarshloneyaITG?tab=followers"><img src="https://img.shields.io/github/followers/UtkarshloneyaITG?label=followers&style=flat-square&color=555555&labelColor=000000" alt="Followers" /></a>
 </p>
 
-### `> about`
-
-I like building tools that make other developers faster, and products people enjoy using.
-Lately that means AI dev tools that live inside the editor (**Infinity Coder**, a full coding agent for VS Code, and **PromptPilot**, which cleans up Claude Code prompts),
-plus polished web apps like **Designly**, a free in-browser design editor.
-
-- **Right now:** building AI-powered tools and sharpening my craft across the full stack
-- **I care about:** safety by default, tests, CI with GitHub Actions, clean deploys
-- **Open to:** dev tools, VS Code extensions, AI + editor integrations, creative web apps
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="About: I like building tools that make other developers faster, and products people enjoy using. Lately that means AI dev tools inside the editor (Infinity Coder, a coding agent for VS Code, and PromptPilot, which cleans up Claude Code prompts), plus web apps like Designly, a free in-browser design editor. Right now: building AI-powered tools. I care about: safety by default, tests, CI, clean deploys. Open to: dev tools, VS Code extensions, AI + editor integrations, creative web apps." />
+</p>
 
 ### `> featured work`
 
@@ -70,13 +64,6 @@ plus polished web apps like **Designly**, a free in-browser design editor.
 <!-- assets/activity.svg is regenerated daily by .github/workflows/activity.yml -->
 <p align="center">
   <img src="./assets/activity.svg" width="100%" alt="GitHub contribution activity, streaks and stats" />
-</p>
-
-### `> reach me`
-
-<p>
-  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:[YOUR-EMAIL]"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><sub><code>$ exit 0</code> · thanks for stopping by</sub></p>

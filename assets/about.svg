@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" font-family="'Segoe UI',Helvetica,Arial,sans-serif" aria-label="About: I build developer tools, AI dev tools inside the editor (Infinity Coder, PromptPilot) and web apps like Designly">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="370" rx="16" fill="#0d0d0d"/>
+  <rect width="1200" height="370" rx="16" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="1199" height="369" rx="15.5" fill="none" stroke="#252525"/>
+
+  <text x="64" y="72" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="22" font-weight="700" fill="#ffffff"><tspan fill="#939393">&gt;</tspan> about</text>
+
+  <g font-size="19" fill="#d0d0d0">
+    <text x="64" y="122">I like building tools that make other developers faster, and products people enjoy using.</text>
+    <text x="64" y="152">Lately that means AI dev tools that live inside the editor: <tspan font-weight="700" fill="#ffffff">Infinity Coder</tspan>, a full coding agent</text>
+    <text x="64" y="182">for VS Code, and <tspan font-weight="700" fill="#ffffff">PromptPilot</tspan>, which cleans up Claude Code prompts. Plus polished web apps</text>
+    <text x="64" y="212">like <tspan font-weight="700" fill="#ffffff">Designly</tspan>, a free in-browser design editor.</text>
+  </g>
+
+  <g font-size="18" fill="#939393">
+    <text x="64" y="266"><tspan fill="#ffffff">◆</tspan>  <tspan font-weight="700" fill="#ffffff">Right now:</tspan> building AI-powered tools and sharpening my craft across the full stack</text>
+    <text x="64" y="298"><tspan fill="#ffffff">◆</tspan>  <tspan font-weight="700" fill="#ffffff">I care about:</tspan> safety by default, tests, CI with GitHub Actions, clean deploys</text>
+    <text x="64" y="330"><tspan fill="#ffffff">◆</tspan>  <tspan font-weight="700" fill="#ffffff">Open to:</tspan> dev tools, VS Code extensions, AI + editor integrations, creative web apps</text>
+  </g>
+</svg>
