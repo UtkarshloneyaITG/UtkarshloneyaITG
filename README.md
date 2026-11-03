@@ -1,17 +1,17 @@
 <!-- Profile README for github.com/UtkarshloneyaITG
      Setup: create a public repo named exactly "UtkarshloneyaITG",
-     upload this README.md and the assets/ folder to its root. -->
+     upload this README.md, the assets/ and scripts/ folders, and .github/workflows/activity.yml. -->
 
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="No Name: full-stack and dev-tools developer" />
+  <img src="./assets/header.svg" width="100%" alt="No Name, full-stack developer building developer tools, AI workflows and web apps" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UtkarshloneyaITG&label=PROFILE%20VIEWS&color=555555&style=flat-square&labelColor=000000" alt="Profile views" />
-  <a href="https://github.com/UtkarshloneyaITG?tab=followers"><img src="https://img.shields.io/github/followers/UtkarshloneyaITG?label=FOLLOWERS&style=flat-square&color=555555&labelColor=000000" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=UtkarshloneyaITG&label=profile%20views&color=555555&style=flat-square&labelColor=000000" alt="Profile views" />
+  <a href="https://github.com/UtkarshloneyaITG?tab=followers"><img src="https://img.shields.io/github/followers/UtkarshloneyaITG?label=followers&style=flat-square&color=555555&labelColor=000000" alt="Followers" /></a>
 </p>
 
-<img src="./assets/h-about.svg" width="100%" alt="About" />
+### `> about`
 
 I like building tools that make other developers faster, and products people enjoy using.
 Lately that means AI dev tools that live inside the editor (**Infinity Coder**, a full coding agent for VS Code, and **PromptPilot**, which cleans up Claude Code prompts),
@@ -21,7 +21,7 @@ plus polished web apps like **Designly**, a free in-browser design editor.
 - **I care about:** safety by default, tests, CI with GitHub Actions, clean deploys
 - **Open to:** dev tools, VS Code extensions, AI + editor integrations, creative web apps
 
-<img src="./assets/h-featured.svg" width="100%" alt="Featured work" />
+### `> featured work`
 
 <p align="center">
   <a href="https://github.com/gamith24/Infinity-Coder"><img src="./assets/infinity-coder.svg" width="100%" alt="Infinity Coder: AI coding agent for VS Code with plan mode, diff approval and semantic search" /></a>
@@ -32,7 +32,7 @@ plus polished web apps like **Designly**, a free in-browser design editor.
 </p>
 
 <p align="center">
-  <a href="https://github.com/UtkarshloneyaITG/prompt-fixer-for-vs-code"><img src="./assets/promptpilot.svg" width="100%" alt="PromptPilot: VS Code extension that fixes prompt spelling and grammar without touching code" /></a>
+  <a href="https://github.com/UtkarshloneyaITG/prompt-fixer-for-vs-code"><img src="./assets/promptpilot.svg" width="100%" alt="PromptPilot: VS Code extension that fixes prompt spelling, grammar and clarity without touching code" /></a>
 </p>
 
 <p align="center">
@@ -48,26 +48,35 @@ plus polished web apps like **Designly**, a free in-browser design editor.
   <a href="https://status-page-three-ashy.vercel.app"><b>Status Page demo →</b></a>
 </p>
 
-<img src="./assets/h-stack.svg" width="100%" alt="Stack" />
-
-<img src="./assets/stack.svg" width="100%" alt="TypeScript, JavaScript, Python, Next.js, React, Node.js, VS Code API, HTML, CSS, GitHub Actions, Vercel, Vitest, pytest, Git" />
-
-<img src="./assets/h-activity.svg" width="100%" alt="Activity" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshloneyaITG&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=bbbbbb&count_private=true&include_all_commits=true&custom_title=GitHub%20stats&font_family=monospace" height="170" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=UtkarshloneyaITG&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BBBBBB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=333333&border_radius=0" height="170" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkarshloneyaITG&bg_color=000000&color=bbbbbb&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=0&custom_title=Contribution%20graph" width="100%" alt="Contribution activity graph" />
-</p>
-
-<img src="./assets/h-reach.svg" width="100%" alt="Reach me" />
+### `> stack`
 
 <p>
-  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:[YOUR-EMAIL]"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/VS%20Code%20API-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code API" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+</p>
+
+### `> activity`
+
+<!-- assets/activity.svg is regenerated daily by .github/workflows/activity.yml -->
+<p align="center">
+  <img src="./assets/activity.svg" width="100%" alt="GitHub contribution activity, streaks and stats" />
+</p>
+
+### `> reach me`
+
+<p>
+  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:[YOUR-EMAIL]"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><sub><code>$ exit 0</code> · thanks for stopping by</sub></p>
